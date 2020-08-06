@@ -1,4 +1,4 @@
-# peopleinteractive
+# peopleinteractive Data Science Assignment
 A Problem Statement
 
 ## Shubham_final is the final solution.
